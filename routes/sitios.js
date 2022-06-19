@@ -13,6 +13,7 @@ router.get("/", async (req, res) => {
 router.post("/", async (req, res) => {
   const newSitio = new Sitio(req.body);
   try {
+    console.log(newSitio)
     const savedSitio = await newSitio.save();
     res.status(200).json(savedSitio);
   } catch (err) {

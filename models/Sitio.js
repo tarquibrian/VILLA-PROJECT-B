@@ -1,6 +1,10 @@
 const { Schema, model, Number } = require("mongoose");
 
 const SitioSchema = Schema({
+  photo: {
+    type: String,
+    require: false,
+  },
   title: {
     type: String,
     required: true,
