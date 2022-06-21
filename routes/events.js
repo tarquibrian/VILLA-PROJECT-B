@@ -13,7 +13,7 @@ const {
   crearEvento,
   actualizarEvento,
   eliminarEvento,
-  getEvent
+  getEvent,
 } = require("../controllers/events");
 
 const router = Router();
@@ -30,6 +30,8 @@ router.post(
     check("title", "El titulo es obligatorio").not().isEmpty(),
     check("start", "Fecha de inicio es obligatoria").custom(isDate),
     check("end", "Fecha de finalización es obligatoria").custom(isDate),
+    check("place", "Fecha de finalización es obligatoria").not().isEmpty(),
+    check("photo", "Fecha de finalización es obligatoria").not().isEmpty(),
     validarCampos,
   ],
   crearEvento
@@ -42,6 +44,8 @@ router.put(
     check("title", "El titulo es obligatorio").not().isEmpty(),
     check("start", "Fecha de inicio es obligatoria").custom(isDate),
     check("end", "Fecha de finalización es obligatoria").custom(isDate),
+    check("place", "Fecha de finalización es obligatoria").not().isEmpty(),
+    check("photo", "Fecha de finalización es obligatoria").not().isEmpty(),
     validarCampos,
   ],
   actualizarEvento
