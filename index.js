@@ -52,6 +52,7 @@ app.use("/api/categories", require("./routes/categories"));
 app.use("/api/users", require("./routes/users"));
 app.use("/api/sitios", require("./routes/sitios"));
 
+app.use("/api/system", require("./routes/system"));
 app.use("/api/notification", require("./routes/pushNotification"));
 
 app.get("api/usuarios", async (req, res) => {
