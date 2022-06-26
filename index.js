@@ -74,6 +74,9 @@ app.delete("/api/usuarios/:id", async (req, res) => {
     res.status(500).json(err);
   }
 });
+app.get("*", (req, res) => {
+  res.sendFile(path.resolve(__dirname, "public", "index.html"));
+});
 
 // Escuchar peticiones
 app.listen(process.env.PORT, () => {
