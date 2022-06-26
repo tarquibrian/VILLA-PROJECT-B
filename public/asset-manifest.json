@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.ac34b5a0.chunk.css",
-    "main.js": "/static/js/main.d797303b.chunk.js",
-    "main.js.map": "/static/js/main.d797303b.chunk.js.map",
+    "main.js": "/static/js/main.1a8e8bb9.chunk.js",
+    "main.js.map": "/static/js/main.1a8e8bb9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.10d02a2b.js",
     "runtime-main.js.map": "/static/js/runtime-main.10d02a2b.js.map",
     "static/css/2.d7022f02.chunk.css": "/static/css/2.d7022f02.chunk.css",
-    "static/js/2.973eb5cf.chunk.js": "/static/js/2.973eb5cf.chunk.js",
-    "static/js/2.973eb5cf.chunk.js.map": "/static/js/2.973eb5cf.chunk.js.map",
+    "static/js/2.ad198316.chunk.js": "/static/js/2.ad198316.chunk.js",
+    "static/js/2.ad198316.chunk.js.map": "/static/js/2.ad198316.chunk.js.map",
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
     "static/css/2.d7022f02.chunk.css.map": "/static/css/2.d7022f02.chunk.css.map",
     "static/css/main.ac34b5a0.chunk.css.map": "/static/css/main.ac34b5a0.chunk.css.map",
-    "static/js/2.973eb5cf.chunk.js.LICENSE.txt": "/static/js/2.973eb5cf.chunk.js.LICENSE.txt",
+    "static/js/2.ad198316.chunk.js.LICENSE.txt": "/static/js/2.ad198316.chunk.js.LICENSE.txt",
     "static/media/alcalde.32228db0.jpg": "/static/media/alcalde.32228db0.jpg",
     "static/media/bars.e010716c.svg": "/static/media/bars.e010716c.svg",
     "static/media/feria.970241e5.jpg": "/static/media/feria.970241e5.jpg",
@@ -49,8 +49,8 @@
   "entrypoints": [
     "static/js/runtime-main.10d02a2b.js",
     "static/css/2.d7022f02.chunk.css",
-    "static/js/2.973eb5cf.chunk.js",
+    "static/js/2.ad198316.chunk.js",
     "static/css/main.ac34b5a0.chunk.css",
-    "static/js/main.d797303b.chunk.js"
+    "static/js/main.1a8e8bb9.chunk.js"
   ]
 }
