@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.ac34b5a0.chunk.css",
-    "main.js": "/static/js/main.1049d471.chunk.js",
-    "main.js.map": "/static/js/main.1049d471.chunk.js.map",
+    "main.js": "/static/js/main.280c61d4.chunk.js",
+    "main.js.map": "/static/js/main.280c61d4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.10d02a2b.js",
     "runtime-main.js.map": "/static/js/runtime-main.10d02a2b.js.map",
     "static/css/2.d7022f02.chunk.css": "/static/css/2.d7022f02.chunk.css",
@@ -14,8 +14,9 @@
     "static/css/2.d7022f02.chunk.css.map": "/static/css/2.d7022f02.chunk.css.map",
     "static/css/main.ac34b5a0.chunk.css.map": "/static/css/main.ac34b5a0.chunk.css.map",
     "static/js/2.9279511e.chunk.js.LICENSE.txt": "/static/js/2.9279511e.chunk.js.LICENSE.txt",
-    "static/media/alcalde.32228db0.jpg": "/static/media/alcalde.32228db0.jpg",
+    "static/media/alcalde.daedc8ad.png": "/static/media/alcalde.daedc8ad.png",
     "static/media/bars.e010716c.svg": "/static/media/bars.e010716c.svg",
+    "static/media/event1.d35f135d.png": "/static/media/event1.d35f135d.png",
     "static/media/feria.970241e5.jpg": "/static/media/feria.970241e5.jpg",
     "static/media/feria1.1f21e33c.jpg": "/static/media/feria1.1f21e33c.jpg",
     "static/media/feria2.d6bd8ce1.jpg": "/static/media/feria2.d6bd8ce1.jpg",
@@ -43,15 +44,16 @@
     "static/media/img8.7a2ecfd9.jpg": "/static/media/img8.7a2ecfd9.jpg",
     "static/media/img9.9b5b2288.jpg": "/static/media/img9.9b5b2288.jpg",
     "static/media/notification.16645b8b.jpg": "/static/media/notification.16645b8b.jpg",
+    "static/media/personaje.e1aaf069.png": "/static/media/personaje.e1aaf069.png",
+    "static/media/sitio1.09a5ee71.png": "/static/media/sitio1.09a5ee71.png",
     "static/media/turismo.6f57242c.jpg": "/static/media/turismo.6f57242c.jpg",
-    "static/media/turismo2.49831e35.jpg": "/static/media/turismo2.49831e35.jpg",
-    "static/media/turismo3.a89520f6.jpg": "/static/media/turismo3.a89520f6.jpg"
+    "static/media/turismo2.49831e35.jpg": "/static/media/turismo2.49831e35.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.10d02a2b.js",
     "static/css/2.d7022f02.chunk.css",
     "static/js/2.9279511e.chunk.js",
     "static/css/main.ac34b5a0.chunk.css",
-    "static/js/main.1049d471.chunk.js"
+    "static/js/main.280c61d4.chunk.js"
   ]
 }
