@@ -27,7 +27,6 @@ const EventoSchema = Schema({
   },
   photo: {
     type: String,
-    required: false,
   },
 });
 
